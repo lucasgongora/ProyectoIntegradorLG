@@ -23,12 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "PortafolioLG/node_modules/bootstrap/distcss/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": [
-              "PortafolioLG/node_modules/bootstrap/dist/js/bootstrap.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {

@@ -1,13 +1,8 @@
 div{ 
-    background-color: hsl(170, 47%, 52%);
+    background-color: #a1b5cb;
 }
 
 app-social{
     float: right;
     margin-top: 25px;
-}
-
-app-banner{
-    float: center;
-    margin-top: 2000px;
 }
