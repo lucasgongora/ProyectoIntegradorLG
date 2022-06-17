@@ -5,9 +5,31 @@ img{
     padding: 20px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: hsl(170, 47%, 52%);
     text-align: center;
 }
+/*estilo de foto de perfil */
+@media (min-width: 576px){
+    #fotoperfil {
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 750px;
+    }
+}
+@media (max-width: 575px){
+    #fotoperfil {
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 33%;
+        top: 680px;
+    }
+}
+
 
 /* etiqueta nombre*/
 #nombre {
