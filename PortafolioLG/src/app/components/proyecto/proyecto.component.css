@@ -1,0 +1,24 @@
+img{
+    width: 300px;
+}
+.row{
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{
+    box-shadow: 10px 10px 25px #39d313;
+}
+h1{
+    color: rgb(41, 182, 60);
+}
+.parte1{
+    margin-left: 4%;
+}

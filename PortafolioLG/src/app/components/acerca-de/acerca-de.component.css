@@ -1,11 +1,12 @@
 img{
-    width: 200px;
+    width: 100px;
 }
 .row{
     padding: 20px;
+    color: #fff;
 }
 div{
-    background-color: hsl(170, 47%, 52%);
+    background-color: #000;
     text-align: center;
 }
 /*estilo de foto de perfil */
@@ -14,7 +15,7 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px  #39d313;
         left: 3%;
         top: 750px;
     }
@@ -26,7 +27,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 680px;
+        top: 880px;
     }
 }
 
@@ -35,4 +36,7 @@ div{
 #nombre {
     font-weight: bold;
     margin-top: 30%;
+}
+h1{
+    color: rgb(41, 182, 60);
 }

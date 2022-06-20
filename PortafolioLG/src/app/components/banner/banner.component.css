@@ -1,5 +1,10 @@
 #banner{
-    width: 100%;
-    height: 750px;
-    object-fit: contain;
+    width: auto;
+    height: 800px;
+    /*object-fit: contain;*/
 }
+img{
+    display: flex;
+    justify-content: flex-center;
+}
+
