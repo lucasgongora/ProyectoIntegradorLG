@@ -1,4 +1,4 @@
-#banner{
+.container{
     width: auto;
     height: 800px;
     /*object-fit: contain;*/
@@ -7,4 +7,5 @@ img{
     display: flex;
     justify-content: flex-center;
 }
+
 

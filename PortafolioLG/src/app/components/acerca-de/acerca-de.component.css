@@ -17,7 +17,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px  #39d313;
         left: 3%;
-        top: 750px;
+        top: 650px;
     }
 }
 @media (max-width: 575px){
@@ -36,6 +36,10 @@ div{
 #nombre {
     font-weight: bold;
     margin-top: 30%;
+    font-size: 26px;
+}
+#titulo,#titulo2{
+    font-size: 20px;
 }
 h1{
     color: rgb(41, 182, 60);

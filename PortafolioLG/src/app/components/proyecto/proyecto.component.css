@@ -18,7 +18,23 @@ img{
 }
 h1{
     color: rgb(41, 182, 60);
+    margin-left: 20px;
 }
 .parte1{
     margin-left: 4%;
+}
+video{
+    width: 900px;
+    height: 700px;
+    box-shadow: 10px 10px 25px #39d313;
+}
+@media(min-width: 600px){
+    #video{
+        top: 700px;
+    }
+}
+@media(max-width: 600px){
+    #video{
+        top: 900px;
+    }
 }
